@@ -5,5 +5,6 @@ public class Task01 {
         System.out.println("helloworld");
         System.out.println("helloworld");
         System.out.println("helloworld");
+        System.out.println("helloworld");
     }
 }
